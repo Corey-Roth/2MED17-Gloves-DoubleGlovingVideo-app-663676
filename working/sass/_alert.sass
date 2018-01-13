@@ -1,0 +1,53 @@
+.alert
+	background: $white
+	border: 1px solid $lightgrey
+	border-radius: 0.25em
+	bottom: -5em
+	box-shadow: 0 2px 2px 0 rgba(20,0,0,0.16), 0 0 0 1px rgba(20,0,0,0.08)
+	display: none
+	font-size: 1.5em
+	left: calc(50% - 200px)
+	max-width: 400px
+	opacity: 0
+	padding: 1em
+	position: fixed
+	z-index: 100
+	strong
+		color: $green
+	.flex-row
+		padding-right: 1rem
+
+.alert .close, .alert .close img
+	height: 1rem
+	width: 1rem
+
+.example
+	position: relative
+	&:after
+		border-top: 4px dotted $lightgrey
+		content: ""
+		left: 0
+		position: absolute
+		right: 0
+		top: calc(50% - 2px)
+		z-index: 1
+
+.example img
+	animation: slide 3s cubic-bezier(0.4, 0.0, 0.2, 1) infinite
+	height: 4rem
+	position: relative
+	width: 4rem
+	z-index: 10
+
+@keyframes slide
+	0%
+		transform: translate(0,0)
+	33%
+		transform: translate(32px, 0)
+	66%
+		transform: translate(-32px, 0)
+	100%
+		transform: translate(0,0)
+
+.flex-row
+	display: flex

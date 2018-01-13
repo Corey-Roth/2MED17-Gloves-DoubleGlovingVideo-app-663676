@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="56" viewBox="0 0 80 56">
+  <defs>
+    <style>
+      .\35 f2b1135-7b70-4b02-b0de-ea2c872033d6 {
+        fill: #e41f35;
+      }
+    </style>
+  </defs>
+  <title>slider-example</title>
+  <g id="c19d9af7-95ff-418c-b27e-3dcddeec7f99" data-name="Layer 2">
+    <g id="661816f0-dcc3-4a64-ab22-8af47af387cc" data-name="Layer 1">
+      <polygon class="5f2b1135-7b70-4b02-b0de-ea2c872033d6" points="36 0 0 28 36 56 36 0"/>
+      <polygon class="5f2b1135-7b70-4b02-b0de-ea2c872033d6" points="44 56 80 28 44 0 44 56"/>
+    </g>
+  </g>
+</svg>

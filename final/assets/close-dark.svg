@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#333333;}
+	.st0:hover{fill:#e41f35}
+</style>
+<g id="remove_x5F_small_1_">
+	<g id="Rectangle_1">
+		<g>
+			<path class="st0" d="M45.2,5.2l-2.3-2.3c-1.6-1.6-4.1-1.6-5.7,0L2.8,37.2c-1.6,1.6-1.6,4.1,0,5.7l2.3,2.3c1.6,1.6,4.1,1.6,5.7,0
+				l34.3-34.3C46.7,9.3,46.7,6.7,45.2,5.2z"/>
+		</g>
+	</g>
+	<g id="Rectangle_1_copy">
+		<g>
+			<path class="st0" d="M45.2,37.2L10.8,2.8c-1.6-1.6-4.1-1.6-5.7,0L2.8,5.2c-1.6,1.6-1.6,4.1,0,5.7l34.3,34.3
+				c1.6,1.6,4.1,1.6,5.7,0l2.3-2.3C46.7,41.3,46.7,38.7,45.2,37.2z"/>
+		</g>
+	</g>
+</g>
+</svg>
